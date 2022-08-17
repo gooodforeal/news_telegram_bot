@@ -1,0 +1,1 @@
+TOKEN = "1826072692:AAHOxQyTIbBP9nv-HT-I97jLfXoQGYRbYg8"  #Токен телеграмм бота
